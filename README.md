@@ -1,4 +1,4 @@
-# Hi there, I'm Code4Devil! 👋
+# Hi there, I'm Kartik Grover! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and contributing to open-source projects.
 
@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 Here are some of the projects I've been working on:
 
-- [**Project 1**](https://github.com/Code4Devil/Intelermate) 
-- [**Project 2**](https://github.com/Code4Devil/UBER-CLONE) 
+- [**Intlermate**](https://github.com/Code4Devil/Intelermate) 
+- [**Uber Clone**](https://github.com/Code4Devil/UBER-CLONE) 
 
 
 Feel free to explore my repositories and reach out if you have any questions!
