@@ -1,44 +1,67 @@
-# Hi there, I'm Kartik Grover! 👋
+# 👋 Hey, I'm Kartik Grover
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and contributing to open-source projects.
+I'm a backend-focused full-stack developer who builds real-world tools for startups, students, and businesses. I specialize in the **MERN stack**, **Supabase**, and **Clerk** to develop secure, scalable, and user-friendly web applications.
 
-## About Me
+I enjoy designing backend architecture, working with databases, and bringing complex ideas to life through clean, modular code.
 
-- 🔭 I’m currently working on various interesting projects.
-- 🌱 I’m continuously learning new programming languages and frameworks.
-- 💬 Ask me about anything related to web development.
-- 📫 How to reach me: [itsinnocentzero@gmail.com](mailto:itsinnocentzero@gmail.com)
-- ⚡ Fun fact: I enjoy solving complex algorithms and challenges in my free time.
+---
 
-## Languages and Tools
+## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+**Frontend:**  
+React.js • Next.js • Tailwind CSS • HTML5 • JavaScript
 
-## GitHub Stats
+**Backend:**  
+Node.js • Express.js • MongoDB • Supabase • SQL
 
-![Code4Devil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code4Devil&show_icons=true&theme=radical)
+**Tools & DevOps:**  
+Git • GitHub • Clerk • AWS • Vercel • REST APIs
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code4Devil&layout=compact&theme=radical)
+---
 
-## Projects
+## 🚀 Featured Projects
 
-Here are some of the projects I've been working on:
+### 📄 [Delta Xero – Invoice Management System](https://delta-xero-invoice-creation.vercel.app)  
+A full-stack tool for generating and tracking professional invoices with auto tax, discount, and status tracking.  
+> Tech: MERN, Vercel  
+> 🔗 [Source Code](https://github.com/Code4Devil/Invoice-System)
 
-- [**Intlermate**](https://github.com/Code4Devil/Intelermate) 
-- [**Uber Clone**](https://github.com/Code4Devil/UBER-CLONE) 
+---
 
+### 📂 [TaskFlow Pro – Project Management App](https://project-management-innoventratech.vercel.app)  
+A role-based task management system with deadline tracking, live status updates, and project-based assignment.  
+> Tech: MERN  
+> 🔗 [Source Code](https://github.com/Code4Devil/Project-Management-System)
 
-Feel free to explore my repositories and reach out if you have any questions!
+---
 
-## Get in Touch
+### 🤝 [Delta Xero CRM Tool](https://crm-management-delta-xero-creations.vercel.app/login)  
+A custom CRM to manage leads, pipelines, and customer communications with secure Clerk auth.  
+> Tech: MERN + Clerk  
+> 🔗 [Source Code](https://github.com/Code4Devil/Delta-Xero-CRM)
 
-- [LinkedIn](https://www.linkedin.com/in/kartik-grover2030/)
+---
 
+### 🚗 [Uber Clone](https://github.com/Code4Devil/UBER-CLONE)  
+A real-time ride-booking app featuring Google Maps API, driver/passenger modes, and in-app payments.  
+> Tech: MERN, Google Maps, Stripe  
+> 🔗 [Source Code](https://github.com/Code4Devil/UBER-CLONE)
 
-Thanks for stopping by! Have a great day! 😊
+---
+
+## 🧠 About Me
+
+- 🧑‍💻 Backend developer @ Innoventra Tech Solutions  
+- 🧪 Passionate about system design, real-world problem solving, and web architecture  
+- 🧠 Curious about psychology, behavior, and how people interact with tech  
+- 🚀 I love building platforms that give students access to real-world opportunities  
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [itsinnocentzero@gmail.com](mailto:itsinnocentzero@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kartik-grover2030/)  
+- 💻 [GitHub](https://github.com/Code4Devil)
+
+Thanks for stopping by — feel free to explore my repos or shoot me a message!
